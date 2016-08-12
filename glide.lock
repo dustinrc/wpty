@@ -1,0 +1,6 @@
+hash: 060627035aad45b911ee401d8e3f9e76da1f6131f4ddca0780e0ade0d3affeca
+updated: 2016-08-12T00:34:04.025666668-04:00
+imports:
+- name: github.com/kr/pty
+  version: ce7fa45920dc37a92de8377972e52bc55ffa8d57
+testImports: []

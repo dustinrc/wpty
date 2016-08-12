@@ -1,0 +1,3 @@
+package: github.com/dustinrc/wpty
+import:
+- package: github.com/kr/pty
